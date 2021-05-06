@@ -1,0 +1,4 @@
+enes aras:80,70,95
+adem aras:95,87,92
+yılmaz aras:98,93,85
+enes aras:70,60,50
